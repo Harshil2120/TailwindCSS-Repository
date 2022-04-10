@@ -1,0 +1,13 @@
+.hello{
+ background-color: aqua ;
+
+}
+
+button{
+ display: inline-block;
+ background-color: black;
+ color:white;
+ border-radius: 5px;
+ padding: 5px;
+ margin: 5px;
+}
